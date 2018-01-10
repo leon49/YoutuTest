@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Detectface" t="Include">
+          <e p="ExifLib" t="Include">
+            <e p="ExifIds.cs" t="Include" />
+            <e p="ExifIO.cs" t="Include" />
+            <e p="ExifReader.cs" t="Include" />
+            <e p="ExifTag.cs" t="Include" />
+            <e p="JpegInfo.cs" t="Include" />
+          </e>
+          <e p="PlayServicesResolver" t="Include">
+            <e p="Editor" t="Include">
+              <e p="play-services-resolver.txt" t="Include" />
+            </e>
+            <e p="proguard-messaging-workaround.txt" t="Include" />
+            <e p="proguard-unity.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Gradient" t="Include">
+              <e p="SetDirty.cs" t="Include" />
+              <e p="UICornersGradient.cs" t="Include" />
+              <e p="UIGradient.cs" t="Include" />
+              <e p="UIGradientUtils.cs" t="Include" />
+              <e p="UITextCornersGradient.cs" t="Include" />
+              <e p="UITextGradient.cs" t="Include" />
+            </e>
+            <e p="Gradient.cs" t="Include" />
+            <e p="Native" t="Include">
+              <e p="Media" t="Include">
+                <e p="MediaAndroid.cs" t="Include" />
+                <e p="MediaBase.cs" t="Include" />
+                <e p="MediaIOS.cs" t="Include" />
+                <e p="MediaStandalone.cs" t="Include" />
+                <e p="MediaWebGL.cs" t="Include" />
+              </e>
+              <e p="Native.cs" t="Include" />
+            </e>
+            <e p="PanelDetectFaceLogic.cs" t="Include" />
+            <e p="TextureRotate.cs" t="Include" />
+            <e p="TextureScale.cs" t="Include" />
+            <e p="WebCameraController.cs" t="Include" />
+            <e p="YouTuResponseData.cs" t="Include" />
+            <e p="yuntu" t="Include">
+              <e p="Auth.cs" t="Include" />
+              <e p="Conf.cs" t="Include" />
+              <e p="Http.cs" t="Include" />
+              <e p="Utility.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Main.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="ShareSDK" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+              <e p="res" t="Include">
+                <e p="drawable" t="Include">
+                  <e p="ssdk_oks_classic_platform_cell_back.xml" t="Include" />
+                  <e p="ssdk_oks_classic_progressbar.xml" t="Include" />
+                  <e p="ssdk_weibo_retry_btn_default.xml" t="Include" />
+                  <e p="ssdk_weibo_retry_btn_press.xml" t="Include" />
+                  <e p="ssdk_weibo_retry_btn_selector.xml" t="Include" />
+                </e>
+                <e p="values" t="Include">
+                  <e p="ssdk_instapaper_strings.xml" t="Include" />
+                  <e p="ssdk_oks_color_drawables.xml" t="Include" />
+                  <e p="ssdk_oks_strings.xml" t="Include" />
+                  <e p="ssdk_strings.xml" t="Include" />
+                </e>
+                <e p="values-en" t="Include">
+                  <e p="ssdk_oks_strings.xml" t="Include" />
+                  <e p="ssdk_strings.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="YoutuTest.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_YoutuTest.1768265425.00" t="ExcludeRecursive" />
+  </component>
+</project>
